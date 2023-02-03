@@ -11,6 +11,7 @@ export 'package:nostr_client/src/message.dart';
 export 'package:nostr_client/src/metadata.dart';
 export 'package:nostr_client/src/nip05.dart';
 export 'package:nostr_client/src/nip05_service.dart';
+export 'package:nostr_client/src/nip19.dart';
 export 'package:nostr_client/src/relay/relay.dart';
 export 'package:nostr_client/src/relay/relay_information_document.dart';
 export 'package:nostr_client/src/relay/relay_pool.dart';
